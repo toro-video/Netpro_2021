@@ -2,6 +2,11 @@
 　**Multiplayer game in which you win by capturing your "Opponent's King Piece".**  
 ![AfterPlayerAttack](https://github.com/toro-video/Netpro_2021/blob/images/AfterPlayerAttack.png)  
 
+
+# Demo play video  
+https://drive.google.com/file/d/1Ywmnj3N6CQh4SBQ47YSf3oWTIzXnskes/view?usp=sharing  
+
+
 # Download  
 　Download and open with IntelliJ, etc.  
 
